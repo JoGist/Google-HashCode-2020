@@ -1,5 +1,5 @@
-# Google-Hash-Code-2020
-Our version of Google HashCode 2020 - Book Scanning
+# Google HashCode 2020
+Our version of Google HashCode 2020 - Book Scanning as Hush, cod! team.
 
 Authors
 Roma Giovanni -
