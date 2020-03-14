@@ -1,11 +1,12 @@
-# Google HashCode 2020
+# Google HashCode 2020 solutiom
 Our version of Google HashCode 2020 - Book Scanning as Hush, cod! team.
 
 ## Authors
-Roma Giovanni -
-Alessio Sfregola -
-Alessio Parmeggiani -
-Emanuele Giona -
+
+*   **Roma Giovanni**  - [github](https://https://github.com/JoGist)
+*   **Alessio Parmeggiani**  - [github](https://github.com/Alessio-Parmeggiani)
+*   **Alessio Sfregola**  - [github](https://github.com/Alessio-17)
+*   **Emanuele Giona**  - [github](https://github.com/)
 
 ## Problem Introduction 
 Introduction
@@ -16,8 +17,8 @@ Task Given a description of libraries and books available, plan which books to s
 
 ## Code usage
 To run the script solution.py, just run the following command:
-
+```sh
 cat problem.txt > python3 hashcode.py
-
+```
 ## Our best score
 
