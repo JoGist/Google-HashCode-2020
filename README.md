@@ -18,7 +18,7 @@ Task Given a description of libraries and books available, plan which books to s
 ## Code usage
 To run the script solution.py, just run the following command:
 ```sh
-cat problem.txt > python3 hashcode.py
+python solution.py <input file> <output file>
 ```
 ## Our best score
 
