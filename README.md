@@ -21,4 +21,4 @@ To run the script solution.py, just run the following command:
 python solution.py <input file> <output file>
 ```
 ## Our best score
-![](Best Scores.png)
+![Best Scores.png](Best Scores.png)
