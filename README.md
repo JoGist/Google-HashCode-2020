@@ -1,5 +1,5 @@
-# Google HashCode 2020 solutiom
-Our version of Google HashCode 2020 - Book Scanning as Hush, cod! team.
+# Google HashCode 2020 solution
+Our solution version of Google HashCode 2020 online qualification round - Book Scanning as Hush, cod! team.
 
 ## Authors
 
