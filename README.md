@@ -6,7 +6,7 @@ Our version of Google HashCode 2020 - Book Scanning as Hush, cod! team.
 *   **Roma Giovanni**  - [github](https://https://github.com/JoGist)
 *   **Alessio Parmeggiani**  - [github](https://github.com/Alessio-Parmeggiani)
 *   **Alessio Sfregola**  - [github](https://github.com/Alessio-17)
-*   **Emanuele Giona**  - [github](https://github.com/)
+*   **Emanuele Giona**  - [github](https://github.com/emanuelegiona)
 
 ## Problem Introduction 
 Introduction
