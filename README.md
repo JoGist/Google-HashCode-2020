@@ -1,5 +1,5 @@
 # Google HashCode 2020 solution
-Our solution version of Google HashCode 2020 online qualification round - Book Scanning as Hush, cod! team.
+Our version of Google HashCode 2020 - Book Scanning as Hush, cod! team.	Our solution version of Google HashCode 2020 online qualification round - Book Scanning as Hush, cod! team.
 
 ## Authors
 
@@ -22,3 +22,6 @@ python solution.py <input file> <output file>
 ```
 ## Our best score
 ![BestScores.png](BestScores.png)
+
+
+For completeness: the previous score has only been recorded during the extended round, since the dataset "D - tough choices" ran out the submission time for the online round.
