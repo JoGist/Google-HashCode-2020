@@ -3,7 +3,6 @@ from typing import List, Dict
 import heapq
 
 
-
 def parse_dataset(input_path: str, output_path: str) -> (int, int, int, List[int], List[Dict[str, int]], List[List[int]], List[bool]):
     """
     Parses the input dataset.
